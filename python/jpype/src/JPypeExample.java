@@ -2,7 +2,6 @@
  * @author GHajba
  */
 public class JPypeExample {
-    public JPypeExample(){}
 
     public static int addition(Integer... numbers) {
         int sum = 0;
